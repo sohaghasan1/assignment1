@@ -167,3 +167,18 @@ margin-top: 20px;
     
 width: 40%;
 }
+
+.video{
+
+width: 80%;
+
+margin: auto;
+}
+.video_code{
+    
+width: 100%;
+border: 1px solid gray;
+border-radius: 20px;
+padding: 50px;
+margin-bottom: 50px;
+}
