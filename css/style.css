@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* .azeret-mono-<uniquifier> {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  } */
+
+body{
+    font-family: "Azeret Mono", monospace;
+}
+h1, h2, h3, h4, h5, h6, p, ul{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+width: 80%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+
+align-items: center;
+
+padding: 30px 0;
+}
+.logo{
+
+}
+.logo h1{
+
+}
+.download_btn{
+
+}
+.download_btn button{
+
+background: transparent;
+
+border: 1px solid #0D1321;
+
+border-radius: 5px;
+
+padding: 15px 30px;
+
+font-size: 16px;
+}
+.banner{
+    background-image: url(../images/Hero-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+.avatar{
+
+}
+.banner h1{
+
+font-size: 48px;
+
+line-height: 68px;
+}
+.banner p{
+    
+font-size: 16px;
+    
+line-height: 26px;
+    
+margin-top: 10px;
+}
+.banner button{
+    
+background: #0D1321;
+    
+color: #fff;
+    
+padding: 15px 30px;
+    
+border-radius: 5px;
+    
+margin-top: 30px;
+}
+.banner-content{
+    
+width: 70%;
+    
+text-align: center;
+}
+.why_dev{
+
+background: #EEF4F8;
+
+width: 80%;
+
+margin: 100px auto;
+
+padding: 80px;
+}
+.main_content{
+
+}
+.heading{
+
+text-align: center;
+
+width: 60%;
+
+margin: auto;
+
+margin-bottom: 50px;
+}
+.heading h1{
+    
+font-size: 32px;
+    
+margin-bottom: 24px;
+} 
+.heading p{
+    
+}
+.content_block{
+
+display: flex;
+
+justify-content: space-between;
+
+align-items: center;
+}
+.conttent{
+
+width: 40%;
+}
+.conttent h1{
+    
+margin-bottom: 20px;
+}
+.conttent p{
+    
+}
+.conttent button{
+    
+background: transparent;
+    
+border: 1px solid #000;
+    
+padding: 15px 30px;
+    
+font-size: 16px;
+    
+border-radius: 5px;
+    
+margin-top: 20px;
+}
+.content_image{
+    
+width: 40%;
+}
